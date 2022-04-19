@@ -25,7 +25,7 @@
       +'<div class="time-entry days"><span>%-D</span> Dias</div> '
       +'<div class="time-entry hours"><span>%H</span> Horas</div> '
       +'<div class="time-entry minutes"><span>%M</span> Minutos</div> '
-      +'<div class="time-entry seconds"><span>%S</span> Segundos</div> '));
+      +'<div class="time-entry seconds"><span>%S</span> Segundo  s</div> '));
     });
 
     /* slicknav mobile menu active  */
